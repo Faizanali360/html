@@ -1,0 +1,29 @@
+Difference between bold and strong?
+Difference italic and emphisized?
+<ins> (Inserted Text) vs	<u> (Underline)
+semantic vs non semantic
+    Definition: Tags that clearly describe their meaning and content.
+
+    Purpose: Improve accessibility, SEO, and code readability.
+
+    Examples:
+
+    <header> – Represents the page or section header
+
+    <article> – Represents a self-contained composition
+
+    <nav> – Represents navigation links
+
+    <footer> – Represents the footer of a document or section
+
+
+    Non-Semantic HTML:
+    Definition: Tags that do not provide information about the content.
+
+    Purpose: Used mainly for layout or styling without conveying content meaning.
+
+    Examples:
+
+    <div> – Generic container
+
+    <span> – Generic inline container
